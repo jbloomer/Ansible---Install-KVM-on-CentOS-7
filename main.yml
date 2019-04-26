@@ -1,5 +1,5 @@
 ---
-    - name: Install Standard Linux System Configuration
+    - name: Install KVM
       hosts: deploy
       remote_user: root
       vars:
